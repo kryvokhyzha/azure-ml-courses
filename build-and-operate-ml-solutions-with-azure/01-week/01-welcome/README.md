@@ -2,7 +2,7 @@
 
 ## Course Syllabus
 
-### Build and Operate Machine Learning Solutions with Azure Machine Learning Course Syllabus 
+### Build and Operate Machine Learning Solutions with Azure Machine Learning Course Syllabus
 
 Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. In this module, you will learn how to use the Azure Machine Learning Python SDK to create and manage enterprise-ready ML solutions.
 
