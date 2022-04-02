@@ -1,0 +1,2 @@
+petastorm==0.8.2
+cloudpickle==1.1.1
